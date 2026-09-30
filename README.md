@@ -22,8 +22,8 @@
 - **Rehla Academy** — Arabic engineering & academic network, designed & built end-to-end (Webflow + CMS + automation + custom code). *Live at rehla.academy.*
 
 ### 📫 Connect
+- 📍 Hannover, Germany
+- ✉️ Email: muhannad.daboul@hotmail.com
 - 💼 LinkedIn: _coming soon_
-- 🌐 Portfolio: _coming soon_
-- ✉️ Email: _coming soon_
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Muhannad-daboul&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" /></p>
