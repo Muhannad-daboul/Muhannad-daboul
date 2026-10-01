@@ -1,29 +1,15 @@
-<h1 align="center">Hi, I'm Muhannad Daboul 👋</h1>
-<p align="center"><b>Software Engineer — Automation Specialist</b></p>
-<p align="center">I build cross-platform apps and backend automation end-to-end.</p>
+# Muhannad Daboul
 
----
+I'm a software engineer based in Hannover, Germany. Most of my work is with Flutter and Firebase, building mobile and web apps along with the backends that run them.
 
-### 🚀 What I do
-- **Mobile & Web apps** with Flutter (student + admin flavors, RTL, offline-friendly).
-- **Serverless backends** on Firebase — Auth, Firestore, Cloud Functions, FCM, Storage, Hosting.
-- **Automation & integrations** — workflows, notifications, and third-party APIs.
+A couple of things I've worked on recently:
 
-### 🛠️ Tech
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Webflow](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=white)
+**Alkamal Library** is a Flutter app for a medical bookstore, live on Google Play. It handles orders, a printing service, and a catalog of around 5,000 lectures, with its own admin dashboard and a Firebase backend (Cloud Functions, notifications, server-side order validation).
 
-### 📌 Featured projects
-- **Alkamal Library** — cross-platform Flutter + Firebase e-commerce & e-learning app for a medical bookstore (orders, printing service, lectures, admin dashboard). *Live on Google Play.*
-- **Rehla Academy** — Arabic engineering & academic network, designed & built end-to-end (Webflow + CMS + automation + custom code). *Live at rehla.academy.*
+**Rehla Academy** (rehla.academy) is an Arabic engineering and academic platform I built end to end on Webflow, with a CMS, some custom code, and a bit of automation.
 
-### 📫 Connect
-- 📍 Hannover, Germany
-- ✉️ Email: muhannad.daboul@hotmail.com
-- 💼 LinkedIn: _coming soon_
+I care about shipping real things, keeping the code simple, and automating whatever gets repetitive.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Muhannad-daboul&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" /></p>
+Day to day I work with Flutter, Dart, Firebase, Node.js, and Webflow.
+
+You can reach me at muhannad.daboul@hotmail.com
