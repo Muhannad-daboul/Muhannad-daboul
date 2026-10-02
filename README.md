@@ -1,15 +1,21 @@
 # Muhannad Daboul
 
-I'm a software engineer based in Hannover, Germany. Most of my work is with Flutter and Firebase, building mobile and web apps along with the backends that run them.
+Software engineer based in Hannover, Germany. I build mobile and web apps with Flutter and Firebase, and I spend a good part of my time automating repetitive work with n8n and Make.
 
-A couple of things I've worked on recently:
+Right now I work remotely as an IT engineer at 2X-NEXT.
 
-**Alkamal Library** is a Flutter app for a medical bookstore, live on Google Play. It handles orders, a printing service, and a catalog of around 5,000 lectures, with its own admin dashboard and a Firebase backend (Cloud Functions, notifications, server-side order validation).
+## Projects
 
-**Rehla Academy** (rehla.academy) is an Arabic engineering and academic platform I built end to end on Webflow, with a CMS, some custom code, and a bit of automation.
+**[Alkamal Library](https://github.com/Muhannad-daboul/alkamal-library)**
+A Flutter app for a medical bookstore, live on Google Play. Students order printed lectures and medical supplies, send their own files for printing, and browse around 5,000 lectures. The backend runs on Firebase, with Cloud Functions that validate every order on the server, push notifications, and an in-app assistant.
 
-I care about shipping real things, keeping the code simple, and automating whatever gets repetitive.
+**Rehla Academy** ([rehla.academy](https://rehla.academy))
+An Arabic platform for engineering and academic content. I was the technical director and built it end to end on Webflow, with a CMS, custom code where Webflow wasn't enough, and some automation behind the scenes.
 
-Day to day I work with Flutter, Dart, Firebase, Node.js, and Webflow.
+## Tools I use most
 
-You can reach me at muhannad.daboul@hotmail.com
+Flutter, Dart, Firebase, Node.js, Webflow, n8n, Make, Airtable
+
+## Contact
+
+muhannad.daboul@hotmail.com
